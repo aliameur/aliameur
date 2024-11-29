@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! I'm Ali, a Moroccan fullstack developer</h2>
 
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="32" alt="javascript logo"  />
   <img width="12" />
@@ -45,8 +43,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="32" alt="googlecloud logo"  />
 </div>
-
-###
 
 <br clear="both">
 
